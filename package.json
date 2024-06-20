@@ -11,15 +11,21 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^17.3.0",
+    "@angular/cdk": "^18.0.3",
     "@angular/common": "^17.3.0",
     "@angular/compiler": "^17.3.0",
     "@angular/core": "^17.3.0",
     "@angular/forms": "^17.3.0",
+    "@angular/material": "^18.0.3",
     "@angular/platform-browser": "^17.3.0",
     "@angular/platform-browser-dynamic": "^17.3.0",
     "@angular/router": "^17.3.0",
+    "@ng-bootstrap/ng-bootstrap": "^17.0.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "xlsx": "^0.18.5",
     "zone.js": "~0.14.3"
   },
   "devDependencies": {

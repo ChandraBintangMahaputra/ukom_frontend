@@ -5,6 +5,12 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
+
+
 export class AppComponent {
-  title = 'portofolio-app';
+  title = 'portofolio-app';  
 }
+
+console.log("hello");
+
+

@@ -1,0 +1,10 @@
+.table-toolbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  input[matInput] {
+    width: 300px;
+  }
+  
